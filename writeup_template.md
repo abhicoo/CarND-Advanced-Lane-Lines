@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 
 
 [image1]: ./output_images/undistortion.png "Undistorted Chessboard"
-[image2]: ./output_image/undistortion_lane.png "Undistored Road"
+[image2]: ./output_images/undistortion_lane.png "Undistored Road"
 [image3]: ./output_images/gradient_x.png "Gradient X"
 [image4]: ./output_images/gradient_y.png "Gradient Y"
 [image5]: ./output_images/gradient_mag.png "Gradient Magnitude"
